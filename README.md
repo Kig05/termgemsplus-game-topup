@@ -34,7 +34,7 @@
    \`\`\`
 
 2. **Database Configuration:**
-   สร้างฐานข้อมูล MySQL และตั้งค่าการเชื่อมต่อในไฟล์ `src/main/resources/application.properties` (หรือไฟล์ตั้งค่าที่เกี่ยวข้อง):
+   สร้างฐานข้อมูล MySQL และตั้งค่าการเชื่อมต่อในไฟล์ 
    \`\`\`properties
    spring.datasource.url=jdbc:mysql://localhost:3306/your_database_name
    spring.datasource.username=your_username
