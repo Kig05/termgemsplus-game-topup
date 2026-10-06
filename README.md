@@ -14,7 +14,7 @@
 *   **Backend:** Java, Spring Boot
 *   **Frontend:** JSP, HTML5, CSS3, JavaScript
 *   **Database:** MySQL
-*   **Build Tool:** Maven (อ้างอิงจากการตั้งค่าโปรเจกต์ด้วยไฟล์ `pom.xml`)
+*   **Build Tool:** Maven 
 
 ## 🚀 Getting Started
 
